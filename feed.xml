@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:44840412-E9FB-4676-A320-A8E0B4CE7B37</id>
+ <title>Page list Atom feed</title>
+ <updated>2009-10-24T09:55:38-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:1094A4C8-A253-460B-BB21-45BADD88E9B3</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">1094A4C8-A253-460B-BB21-45BADD88E9B3</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2009-10-24T09:55:38.001-04:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FDB99EF4-DD24-4C3B-832C-6DACBC67D8B8</id>
+  <title>Expertise</title>
+  <title xmlns="urn:iweb:">Expertise</title>
+  <in-navbar xmlns="urn:iweb:">FDB99EF4-DD24-4C3B-832C-6DACBC67D8B8</in-navbar>
+  <link rel="alternate" href="Expertise.html"/>
+  <updated>2009-10-24T09:55:38.002-04:00</updated>
+  <content>Expertise</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6397D0DD-ECE4-4E76-A072-84DE91B705B9</id>
+  <title>Key Personnel</title>
+  <title xmlns="urn:iweb:">Key Personnel</title>
+  <in-navbar xmlns="urn:iweb:">6397D0DD-ECE4-4E76-A072-84DE91B705B9</in-navbar>
+  <link rel="alternate" href="Key_Personnel.html"/>
+  <updated>2009-10-24T09:55:38.003-04:00</updated>
+  <content>Key Personnel</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3159B5FE-6067-487C-8B02-A83FD75EE8CD</id>
+  <title>Training / Educational Programs</title>
+  <title xmlns="urn:iweb:">Training / Educational Programs</title>
+  <in-navbar xmlns="urn:iweb:">3159B5FE-6067-487C-8B02-A83FD75EE8CD</in-navbar>
+  <link rel="alternate" href="Training___Educational_Programs.html"/>
+  <updated>2009-10-24T09:55:38.004-04:00</updated>
+  <content>Training / Educational Programs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:14C93E37-FA14-4769-A9AC-6752D0F95596</id>
+  <title>Français</title>
+  <title xmlns="urn:iweb:">Français</title>
+  <in-navbar xmlns="urn:iweb:">14C93E37-FA14-4769-A9AC-6752D0F95596</in-navbar>
+  <link rel="alternate" href="Francais.html"/>
+  <updated>2009-10-24T09:55:38.005-04:00</updated>
+  <content>Français</content>
+ </entry>
+</feed>
